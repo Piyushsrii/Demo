@@ -6,7 +6,7 @@ then
 echo "Employee is present"
 else
 echo "Employee is not present"
-fi#!/bin/bash -x
+fi
 
 
 
